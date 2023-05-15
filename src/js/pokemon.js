@@ -98,7 +98,7 @@ function criarCartaoPokemon(nome, numero, imagemSrc, tipos, descricao) {
     "Squirtle",
     "#007",
     "./src/imagens/squirtle.gif",
-    ["água"],
+    ["agua"],
     "Quando ele retrai seu longo pescoço em sua concha, ele esguicha água com força vigorosa."
   );
   
@@ -106,7 +106,7 @@ function criarCartaoPokemon(nome, numero, imagemSrc, tipos, descricao) {
     "Wartortle",
     "#008",
     "./src/imagens/wartortle.gif",
-    ["água"],
+    ["agua"],
     "É reconhecido como um símbolo de longevidade. Se sua concha tem algas, esse Wartortle é muito antigo."
   );
   
@@ -114,7 +114,7 @@ function criarCartaoPokemon(nome, numero, imagemSrc, tipos, descricao) {
     "Blastoise",
     "#009",
     "./src/imagens/blastoise.gif",
-    ["água"],
+    ["agua"],
     "Ele esmaga seu inimigo sob seu corpo pesado para causar desmaios. Em uma pitada, ele se retirará dentro de sua concha."
   );
   
